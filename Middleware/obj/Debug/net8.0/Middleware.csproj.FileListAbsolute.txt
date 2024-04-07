@@ -1,0 +1,12 @@
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\bin\Debug\net8.0\Middleware.deps.json
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\bin\Debug\net8.0\Middleware.dll
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\bin\Debug\net8.0\Middleware.pdb
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\Middleware.dll
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\Middleware.pdb
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\ref\Middleware.dll
+C:\Users\yassi\source\repos\TESTMicroservice\Middleware\obj\Debug\net8.0\Middleware.csproj.AssemblyReference.cache

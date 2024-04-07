@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pwt9JQT/WNRVE7Tn9GeeR9cFw4CVR+KaiYCyVmQ2FHQ=",
+  "Source": "IdentityMicroservice",
+  "BasePath": "_content/IdentityMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
